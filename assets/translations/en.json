@@ -1,0 +1,16 @@
+{
+  "my_gallery": "My \nGallery",
+  "login": "LOG IN",
+  "login_success": "Login Successfully",
+  "user_name": "User Name",
+  "password": "Password",
+  "submit": "SUBMIT",
+  "enter_your_user_name": "Enter your user name",
+  "enter_your_password": "Enter your password",
+  "logout": "Logout",
+  "upload": "Upload",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "welcome": "Welcome",
+  "image_uploaded_success": "Image Uploaded Successfully"
+}
